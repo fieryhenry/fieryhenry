@@ -10,7 +10,7 @@ Here's a list of a few of my projects:
 - Save Editor: <https://github.com/fieryhenry/BCSFE-Python> (check 3.0.0 branch for better code)
 - CLI Basic Modding Tool: <https://github.com/fieryhenry/BCGM-Python>
 - Modding Library: <https://github.com/fieryhenry/tbcml>
-- Mailbox Private Server: <https://github.com/fieryhenry/TBCMailServer>
+- Mailbox Hack: <https://github.com/fieryhenry/mailboxhack>
 - Event Data Downloader: <https://github.com/fieryhenry/bcedd>
 - Event Data Decryptor: <https://github.com/fieryhenry/bcdd>
 
