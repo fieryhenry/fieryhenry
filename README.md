@@ -4,7 +4,6 @@ I do hacking and modding stuff with the mobile game The Battle Cats
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M53M4MN)
 
-I do hacking and modding stuff with the mobile game The Battle Cats.
 
 Here's a list of a few of my projects:
 - Save Editor: <https://github.com/fieryhenry/BCSFE-Python> (check 3.0.0 branch for better code)
