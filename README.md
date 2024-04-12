@@ -13,6 +13,8 @@ Here's a list of a few of my projects:
 - Event Data Downloader: <https://github.com/fieryhenry/bcedd>
 - Event Data Decryptor: <https://github.com/fieryhenry/bcdd>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fieryhenry&show_icons=true&count_private=true&theme=dark&hide=contribs,prs,issues&hide_rank=true" />
+![](https://raw.githubusercontent.com/fieryhenry/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/fieryhenry/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fieryhenry&repo=BCSFE-Python&theme=dark&show_owner=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fieryhenry&theme=dark&layout=compact&langs_count=5" />
