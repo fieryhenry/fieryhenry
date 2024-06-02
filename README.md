@@ -10,6 +10,7 @@ Here's a list of a few of my projects:
 - CLI Basic Modding Tool: <https://github.com/fieryhenry/BCGM-Python>
 - Modding Library: <https://github.com/fieryhenry/tbcml>
 - Mailbox Hack: <https://github.com/fieryhenry/mailboxhack>
+- Private Server: <https://github.com/fieryhenry/bcps>
 - Event Data Downloader: <https://github.com/fieryhenry/bcedd>
 - Event Data Decryptor: <https://github.com/fieryhenry/bcdd>
 
