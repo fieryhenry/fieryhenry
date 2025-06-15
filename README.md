@@ -6,7 +6,6 @@ I do hacking and modding stuff with the mobile game The Battle Cats
 
 [![LiberaPay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fieryhenry/donate)
 
-
 Here's a list of a few of my projects:
 - Save Editor: <https://github.com/fieryhenry/BCSFE-Python> (check 3.0.0 branch for better code)
 - CLI Basic Modding Tool: <https://github.com/fieryhenry/BCGM-Python>
@@ -15,6 +14,8 @@ Here's a list of a few of my projects:
 - Private Server: <https://github.com/fieryhenry/bcps>
 - Event Data Downloader: <https://github.com/fieryhenry/bcedd>
 - Event Data Decryptor: <https://github.com/fieryhenry/bcdd>
+
+Most of my new projects will be on [Codeberg](https://codeberg.org/fieryhenry) instead.
 
 ![](https://raw.githubusercontent.com/fieryhenry/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/fieryhenry/github-stats/master/generated/overview.svg#gh-light-mode-only)
