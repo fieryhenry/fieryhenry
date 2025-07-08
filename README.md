@@ -17,8 +17,5 @@ Here's a list of a few of my projects:
 
 Most of my new projects will be on [Codeberg](https://codeberg.org/fieryhenry) instead.
 
-![](https://raw.githubusercontent.com/fieryhenry/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/fieryhenry/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fieryhenry&repo=BCSFE-Python&theme=dark&show_owner=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fieryhenry&theme=dark&layout=compact&langs_count=5" />
