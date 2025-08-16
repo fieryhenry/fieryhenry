@@ -2,6 +2,8 @@
 
 Please access my repos on Codeberg instead of GitHub: <https://codeberg.org/fieryhenry>. I am currently in the process of migrating all of my repos over to there.
 
+If you think any repo of mine is missing from GitHub and it used to exist, it is likely now on Codeberg.
+
 GitHub is a terrible platform owned by Microsoft which is a terrible company. See here: <https://giveupgithub.org/>
 
 I do hacking and modding stuff with the mobile game The Battle Cats.
