@@ -1,6 +1,10 @@
 # Hi there I'm fieryhenry
 
-I do hacking and modding stuff with the mobile game The Battle Cats
+Please access my repos on Codeberg instead of GitHub: <https://codeberg.org/fieryhenry>. I am currently in the process of migrating all of my repos over to there.
+
+GitHub is a terrible platform owned by Microsoft which is a terrible company. See here: <https://giveupgithub.org/>
+
+I do hacking and modding stuff with the mobile game The Battle Cats.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M53M4MN)
 
@@ -15,7 +19,7 @@ Here's a list of a few of my projects:
 - Event Data Downloader: <https://github.com/fieryhenry/bcedd>
 - Event Data Decryptor: <https://github.com/fieryhenry/bcdd>
 
-Most of my new projects will be on [Codeberg](https://codeberg.org/fieryhenry) instead.
+My new projects will be on [Codeberg](https://codeberg.org/fieryhenry) instead.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fieryhenry&repo=BCSFE-Python&theme=dark&show_owner=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fieryhenry&theme=dark&layout=compact&langs_count=5" />
