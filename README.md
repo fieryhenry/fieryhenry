@@ -16,7 +16,7 @@ Here's a list of a few of my projects:
 - Save Editor: <https://github.com/fieryhenry/BCSFE-Python>
 - CLI Basic Modding Tool: <https://github.com/fieryhenry/BCGM-Python>
 - Modding Library: <https://github.com/fieryhenry/tbcml>
-- Mailbox Hack: <https://github.com/fieryhenry/mailboxhack>
+- Mailbox Hack: <https://codeberg.org/fieryhenry/mailboxhack>
 - Private Server: <https://codeberg.org/fieryhenry/bcps>
 - Event Data Downloader: <https://codeberg.org/fieryhenry/bcedd>
 - Event Data Decryptor: <https://codeberg.org/fieryhenry/bcdd>
