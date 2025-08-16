@@ -19,7 +19,7 @@ Here's a list of a few of my projects:
 - Mailbox Hack: <https://github.com/fieryhenry/mailboxhack>
 - Private Server: <https://github.com/fieryhenry/bcps>
 - Event Data Downloader: <https://github.com/fieryhenry/bcedd>
-- Event Data Decryptor: <https://github.com/fieryhenry/bcdd>
+- Event Data Decryptor: <https://codeberg.org/fieryhenry/bcdd>
 
 My new projects will be on [Codeberg](https://codeberg.org/fieryhenry) instead.
 
