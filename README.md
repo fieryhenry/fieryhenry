@@ -13,7 +13,7 @@ I do hacking and modding stuff with the mobile game The Battle Cats.
 [![LiberaPay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fieryhenry/donate)
 
 Here's a list of a few of my projects:
-- Save Editor: <https://github.com/fieryhenry/BCSFE-Python>
+- Save Editor: <https://codeberg.org/fieryhenry/BCSFE-Python>
 - CLI Basic Modding Tool: <https://codeberg.org/fieryhenry/BCGM-Python>
 - Modding Library: <https://codeberg.org/fieryhenry/tbcml>
 - Mailbox Hack: <https://codeberg.org/fieryhenry/mailboxhack>
