@@ -14,8 +14,8 @@ I do hacking and modding stuff with the mobile game The Battle Cats.
 
 Here's a list of a few of my projects:
 - Save Editor: <https://github.com/fieryhenry/BCSFE-Python>
-- CLI Basic Modding Tool: <https://github.com/fieryhenry/BCGM-Python>
-- Modding Library: <https://github.com/fieryhenry/tbcml>
+- CLI Basic Modding Tool: <https://codeberg.org/fieryhenry/BCGM-Python>
+- Modding Library: <https://codeberg.org/fieryhenry/tbcml>
 - Mailbox Hack: <https://codeberg.org/fieryhenry/mailboxhack>
 - Private Server: <https://codeberg.org/fieryhenry/bcps>
 - Event Data Downloader: <https://codeberg.org/fieryhenry/bcedd>
